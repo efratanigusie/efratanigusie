@@ -32,12 +32,5 @@
 
 
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=efratanigusie&theme=tokyonight"/>
-</p>
-
----
 
 ⭐️ From **Eden Nigusie**
