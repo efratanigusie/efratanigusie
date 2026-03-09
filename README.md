@@ -1,4 +1,4 @@
-# afratanigusie
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/efratanigusie/efratanigusie/main/banner.png" />
 </p>
